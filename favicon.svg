@@ -1,15 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
-  <defs>
-    <linearGradient id="favBg-강남" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#b91c1c"/>
-      <stop offset="100%" stop-color="#991b1b"/>
-    </linearGradient>
-    <filter id="favShadow">
-      <feDropShadow dx="0" dy="1" stdDeviation="1" flood-color="#000000" flood-opacity="0.3"/>
-    </filter>
-  </defs>
-  <rect width="32" height="32" rx="8" fill="url(#favBg-강남)"/>
-  <rect x="1.5" y="1.5" width="29" height="29" rx="6.5" fill="none" stroke="#ffffff" stroke-width="1" opacity="0.25"/>
-  <path d="M 24.5 4 L 26 7 L 29 7 L 27 9 L 28 12 L 25 10 L 22 12 L 23 9 L 21 7 L 24 7 Z" fill="#fca5a5"/>
-  <text x="16" y="22" text-anchor="middle" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="800" fill="#ffffff" filter="url(#favShadow)" letter-spacing="-0.5">강남</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
+  <metadata>BPaaS site identity 4802b645935b3de4</metadata>
+  <rect width="64" height="64" rx="11" fill="hsl(74 82% 27%)"/>
+  <path d="M37 0h27v64H23Z" fill="hsl(159 84% 67%)" opacity="0.82"/>
+  <g transform="rotate(207 32 32)" opacity="0.42"><path d="M14 20h36L32 50Z" fill="none" stroke="#ffffff" stroke-width="7" stroke-linejoin="round"/></g>
+  <text x="32" y="39" text-anchor="middle" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="0">SF</text>
 </svg>
